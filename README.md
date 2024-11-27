@@ -1,2 +1,2 @@
 # resume
-My resume for complete web development course
+A Basic Html resume
